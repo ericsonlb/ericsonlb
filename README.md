@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65b33f4d0c548122833d0b20?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
+
 <!--
 **ericsonlb/ericsonlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
